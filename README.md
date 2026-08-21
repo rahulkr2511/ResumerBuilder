@@ -42,4 +42,4 @@ server).
 
 ## Live Demo
 
-[(https://rahulkr2511.github.io/ResumeBuilder/)]
+Link: https://rahulkr2511.github.io/ResumeBuilder/
