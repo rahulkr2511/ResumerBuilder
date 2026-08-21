@@ -1,6 +1,6 @@
 # CraftMyCV - Resume Builder Web Application
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Status](https://img.shields.io/badge/status-done-brightgreen)
 
 CraftMyCV is a dynamic and user-friendly resume builder that empowers users
 to create professional resumes effortlessly using customizable, pre-defined
